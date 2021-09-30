@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="ssh://git@github.com/mdurnev/" name="mdurnev" alias="origin"/>
+
+  <project name="meta-mentor-cicd-test.git" path="meta-mentor-cicd-test" remote="mdurnev" revision="main" upstream="main"/>
+</manifest>
